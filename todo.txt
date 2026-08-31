@@ -1,3 +1,4 @@
 learn git
 practice commits
 finish lab 3
+knas igen 
